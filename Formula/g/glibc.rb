@@ -1,5 +1,7 @@
 require "os/linux/glibc"
 
+# TODO: DO NOT MERGE
+
 class BrewedGlibcNotOlderRequirement < Requirement
   fatal true
 
